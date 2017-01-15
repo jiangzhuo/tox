@@ -3,6 +3,7 @@ rust:
   - stable
   - beta
   - nightly
+cache: cargo
 # needed for `travis-cargo coveralls --no-sudo`
 addons:
   apt:
